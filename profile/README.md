@@ -1,9 +1,9 @@
-# Welcome to the Flutter organization
+# Welcome to the Yuniye organization
 
 Yuniye is an open source Next Generational Programming langugaue built with GPT-4 for building beautiful, interpreted and natively compiled applications for mobile, web, desktop, and embedded devices from a single codebase.
 Yuniye is primarily funded by Open Source community with contributors from all around the world.
 
-## Get started with Flutter!
+## Get started with Yuniye!
 
 To learn more about Yuniye, see <https://divinenii.com/projects/yuniye>.
 
