@@ -5,9 +5,9 @@ Yuniye is primarily funded by Open Source community with contributors from all a
 
 ## Get started with Yuniye!
 
-To learn more about Yuniye, see <https://divinenii.com/projects/yuniye>.
+To learn more about Yuniye, see <https://yuniye.com>.
 
-To get up to speed quickly, start with our [getting started guide](https://yuniye.github.io/get-started)!
+To get up to speed quickly, start with our [getting started guide](https://docs.yuniye.com/get-started)!
 
 ## Get involved!
 
@@ -23,4 +23,4 @@ The Yuniye project has a number of repositories, some important ones include:
 * [yuniye-intellij](https://github.com/yuniye/yuniye-intellij): the IntelliJ plugin for Yuniye.
 * [samples](https://github.com/yuniye/samples): examples of Yuniye applications for your enjoyment and edification.
 * [tests](https://github.com/yuniye/tests): a repository for you to submit your application's tests to ensure that breaking changes don't affect your application.
-* [website](https://github.com/yuniye/yuniye.github.io): the source for our documentation site, https://yuniye.github.io/.
+* [website](https://github.com/yuniye/yuniye.github.io): the source for our documentation site, https://docs.yuniye.com/.
